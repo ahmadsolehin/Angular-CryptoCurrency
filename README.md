@@ -1,7 +1,5 @@
 # Angular CryptoCurrency Tutorial
 
-This project is based on the tutorial (written and video) located at:
-[Angular CryptoCurrency Tutorial - Display Exchange Data with an API](https://coursetro.com/posts/code/91/Angular-CryptoCurrency-Tutorial---Display-Exchange-Data-with-an-API)
 
 This project uses the free [CryptoCompare API](http://cryptocompare.com/api) service.
 
