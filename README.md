@@ -9,7 +9,4 @@ This project uses the free [CryptoCompare API](http://cryptocompare.com/api) ser
 
 Clone this repo and run `npm install` in the project folder. From there, you can run `ng serve` to watch the project in action.
 
-## Want more?
 
-Check out [Coursetro Full Stack Developer Training](https://coursetro.com) for more tutorials.
-Also check out the [Official Coursetro Youtube Channel](http://youtube.com/user/designcourse).
